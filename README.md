@@ -65,7 +65,8 @@ i found that pressing the boost button or r1 or whatever u kids call it made my 
 wierd as this has occured in every version of eden i tested sonic on but i just noticed the r1 fix for me. maybe it works for you if u have issues.
 (could really just be random lucky r1 presses but its info out there) so don take it as a workaround/fix just try it out
 luigi's mansion 3 feb 06 to 07 update break still not fixed as of the nightly today 30/03/26 but play the game with the nightly version from feb 06 2026 and maybe youre in the clear.
-strange that 06 to 07 break. sad for amd igpu users.
+strange that 06 to 07 break. sad for amd igpu users. but we might get lucky some day and people have the time to look at it.
+development/optimizing takes alot of time. and people do have jobs and families and lives in general love the emu/mod community u guys are the true unspoken heroes.
 love to the guys at EDEN
 love to Fl4sh9147 and everybody who helps.
 
