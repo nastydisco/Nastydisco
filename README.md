@@ -1,5 +1,5 @@
 im on linux bazzite desktop. im new on github dont know what to post where or anything havent read into this alot yet.
-updates to nots i find alond the way of testing will be posted here if i know how.
+updates to notes i find along the way of testing will be posted here if i know how.
 or else i might just add a new line to this readme.md and add a date to it.
 -
 (i basicly use default settings. HANDHELD MODE ALWAYS)
