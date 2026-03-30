@@ -40,7 +40,9 @@ so there maybe some things to look into with what was done in the update from fe
 
 thougt i would get the info out there love the work you all do.
 
--update March 29 tested om igpu dgpu opengl and vulkan 
+-update
+
+March 29 tested om igpu dgpu opengl and vulkan 
 tested docked mode for sonic. (game on accurate only way it doesnt crash every 3 to 5 races. no fps change. still get the 45 sec to 1 min periods of 2 -5 fps at raondom points. then all falls back to 60 
 tested docked mode for Luigi's Manssion 3 and iGPU ( actually less red and green lines lol? but docked mode represented a huge fps drop )
 
