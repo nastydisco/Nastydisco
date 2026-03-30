@@ -36,13 +36,13 @@ but UNFORTUNATELY hard crashes in (E.g. Sonic racing crossworlds.) VERY RARELY b
 IS ABLE TO RUN LUIGIS MANSION 3 ON MY IGPU (amd660m ryzen 5 7535hs) no crashes happened yet at all. no red and green lines at all.
 
 so there maybe some things to look into with what was done in the update from feb 06 to the version updated to at feb 07
-,aybe something was changed that should be an option for people to turn on/off idk.. what it is but something broke something feb 06 - 07yt
+,aybe something was changed that should be an option for people to turn on/off idk.. what it is but something broke something feb 06 - 07
 
 thougt i would get the info out there love the work you all do.
 
 -update March 29 tested om igpu dgpu opengl and vulkan 
 tested docked mode for sonic. (game on accurate only way it doesnt crash every 3 to 5 races. no fps change. still get the 45 sec to 1 min periods of 2 -5 fps at raondom points. then all falls back to 60 
-tested docked mode for Luigi's Manssion 3 og iGPU ( actually less red and green lines lol? but docked mode represented a huge fps drop )
+tested docked mode for Luigi's Manssion 3 and iGPU ( actually less red and green lines lol? but docked mode represented a huge fps drop )
 
 as of the latest nightly stable MARCH 29 2026
 Commit of 276dcdd8ea. alot of the slowdowns in sonic racing has been fixed in eden emu. (thanks to EDEN and everyone involved)
