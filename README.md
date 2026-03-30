@@ -1,13 +1,3 @@
-(update found something funny.)
-sometimes when i play sonic crossworlds on eden i someitmes get these spikes of gpu 0% 2 -5 fps game still runs
-i found that pressing the boost button or r1 or whatever u kids call it made my game 100% speed again instant.
-wierd as this has occured in every version of eden i tested sonic on but i just noticed the r1 fix for me. maybe it works for you if u have issues.
-luigi's mansion 3 feb 06 to 07 update break still not fixed as of the nightly today 30/03/26 but play the game with the nightly version from feb 06 2026 and maybe youre in the clear.
-strange that 06 to 07 break. sad for amd igpu users.
-love to the guys at EDEN
-love to Fl4sh9147 and everybody who helps.
-the nightly version of 3/30/26 runs my sonic great with acurate mode.
-slowdown/spikes stopped when pressing r1 (use dualsense controller) lmao but i talk about the "drop to 2 - 5 fps slowdowns"
 
 -
 
@@ -61,11 +51,33 @@ tested docked mode for Luigi's Manssion 3 and iGPU ( actually less red and green
 
 as of the latest nightly stable MARCH 29 2026
 Commit of 276dcdd8ea. alot of the slowdowns in sonic racing has been fixed in eden emu. (thanks to EDEN and everyone involved)
+i didnt get any slowmotion in the start of the race at the boost gauge. (not the 2 - 5fps thing im talking about)
 but game still hawe like 30 45 sec periods of 2 - 5 fps while my mangohud shows almost no stress on gpu cpu
 these periods of 2 - 5 fps happends on both vulkan and opengl both a amd igpu 660m and a nvidia 3050 6gb rtx. with both modes. ofcourse sonic on accurate. tried docked ran fine but again hard crash or the drop to 5 fps for almost a minute (amd64 machine)
 MARCH 29 nightly commit of 276dcdd8ea red and green lines still present in luigi¨s mansion 3 the nightly that werent there for on feb 06 b9e05h3a7. 
 
 -
+
+(update found something funny.) 
+sometimes when i play sonic crossworlds on eden i someitmes get these spikes of gpu 0% 2 -5 fps game still runs
+i found that pressing the boost button or r1 or whatever u kids call it made my game 100% speed again instant.
+wierd as this has occured in every version of eden i tested sonic on but i just noticed the r1 fix for me. maybe it works for you if u have issues.
+(could really just be random lucky r1 presses but its info out there) so don take it as a workaround/fix just try it out
+luigi's mansion 3 feb 06 to 07 update break still not fixed as of the nightly today 30/03/26 but play the game with the nightly version from feb 06 2026 and maybe youre in the clear.
+strange that 06 to 07 break. sad for amd igpu users.
+love to the guys at EDEN
+love to Fl4sh9147 and everybody who helps.
+
+-
+
+the nightly version of 3/30/26 runs my sonic great with acurate mode. and handheld it did not crash the entire grand prix i played but thats only 4 races. and it did get the crazy stuttering and the "2 - 5 fps 0%gpu crazyness on mangohud" at the end of the second grand prix i played.
+slowdown/spikes stopped when pressing r1 (i use a dualsense controller) lmao but i talk about the "drop to 2 - 5 fps slowdowns" its not a fix its just funny. makes me wonder why it happens.
+(maybe its something with the controller) (i have all hotkeys off) in settings. except fullscreen on enter. on a keyboard.
+i will try with a new computer i have laying around and a different controller or a keyboard tomorrow. on either this nightly 30/03/26 or the next release. when it releases.
+
+one love to everyone who makes my gaming experience better with your hard work. especially in the emulation community. 
+that community does not get the praise it deserves.
+
 nastydisco
 -
 nastydisco
