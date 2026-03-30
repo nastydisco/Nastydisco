@@ -77,7 +77,7 @@ slowdown/spikes stopped when pressing r1 (i use a dualsense controller) lmao but
 (maybe its something with the controller) (i have all hotkeys off) in settings. except fullscreen on enter. on a keyboard.
 i will try with a new computer i have laying around and a different controller or a keyboard tomorrow. on either this nightly 30/03/26 or the next release. when it releases.
 
-one love to everyone who makes my gaming experience better with your hard work. especially in the emulation community. 
+one love to everyone who makes my gaming experience better with your hard work. especially in the emulation/modding community. 
 that community does not get the praise it deserves.
 
 nastydisco
