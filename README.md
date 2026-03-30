@@ -1,3 +1,16 @@
+(update found something funny.)
+sometimes when i play sonic crossworlds on eden i someitmes get these spikes of gpu 0% 2 -5 fps game still runs
+i found that pressing the boost button or r1 or whatever u kids call it made my game 100% speed again instant.
+wierd as this has occured in every version of eden i tested sonic on but i just noticed the r1 fix for me. maybe it works for you if u have issues.
+luigi's mansion 3 feb 06 to 07 update break still not fixed as of the nightly today 30/03/26 but play the game with the nightly version from feb 06 2026 and maybe youre in the clear.
+strange that 06 to 07 break. sad for amd igpu users.
+love to the guys at EDEN
+love to Fl4sh9147 and everybody who helps.
+the nightly version of 3/30/26 runs my sonic great with acurate mode.
+slowdown/spikes stopped when pressing r1 (use dualsense controller) lmao but i talk about the "drop to 2 - 5 fps slowdowns"
+
+-
+
 im on linux bazzite desktop. im new on github dont know what to post where or anything havent read into this alot yet.
 updates to notes i find along the way of testing will be posted here if i know how.
 or else i might just add a new line to this readme.md and add a date to it.
