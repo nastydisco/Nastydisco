@@ -49,7 +49,7 @@ tested docked mode for Luigi's Manssion 3 and iGPU ( actually less red and green
 as of the latest nightly stable MARCH 29 2026
 Commit of 276dcdd8ea. alot of the slowdowns in sonic racing has been fixed in eden emu. (thanks to EDEN and everyone involved)
 but game still hawe like 30 45 sec periods of 2 - 5 fps while my mangohud shows almost no stress on gpu cpu
-these periods of 2 - 5 fps happends on both vulkan and opengl both a amd igpu 660m and a radeon 3050 6gb rtx. with both modes. ofcourse sonic on accurate. tried docked ran fine but again hard crash or the drop to 5 fps for almost a minute (amd64 machine)
+these periods of 2 - 5 fps happends on both vulkan and opengl both a amd igpu 660m and a nvidia 3050 6gb rtx. with both modes. ofcourse sonic on accurate. tried docked ran fine but again hard crash or the drop to 5 fps for almost a minute (amd64 machine)
 MARCH 29 nightly commit of 276dcdd8ea red and green lines still present in luigi¨s mansion 3 the nightly that werent there for on feb 06 b9e05h3a7. 
 
 -
