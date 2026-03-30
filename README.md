@@ -1,4 +1,7 @@
-im on linux bazzite desktop.
+im on linux bazzite desktop. im new on github dont know what to post where or anything havent read into this alot yet.
+updates to nots i find alond the way of testing will be posted here if i know how.
+or else i might just add a new line to this readme.md and add a date to it.
+-
 (i basicly use default settings. HANDHELD MODE ALWAYS)
 to everybody with green and red lines graphical errors in Luigis mansion 3 on emu.
 graphical erros in sonic crossworlds racing with crashes - sonic must run in accurate mode on my pc might be the same case for you. or i get graphical glitching causing crashes.
@@ -36,5 +39,18 @@ so there maybe some things to look into with what was done in the update from fe
 ,aybe something was changed that should be an option for people to turn on/off idk.. what it is but something broke something feb 06 - 07yt
 
 thougt i would get the info out there love the work you all do.
+
+-update March 29 tested om igpu dgpu opengl and vulkan 
+tested docked mode for sonic. (game on accurate only way it doesnt crash every 3 to 5 races. no fps change. still get the 45 sec to 1 min periods of 2 -5 fps at raondom points. then all falls back to 60 
+tested docked mode for Luigi's Manssion 3 og iGPU ( actually less red and green lines lol? but docked mode represented a huge fps drop )
+
+as of the latest nightly stable MARCH 29 2026
+Commit of 276dcdd8ea. alot of the slowdowns in sonic racing has been fixed in eden emu. (thanks to EDEN and everyone involved)
+but game still hawe like 30 45 sec periods of 2 - 5 fps while my mangohud shows almost no stress og gou cpu
+these periods of 2 - 5 fps happends on both vulkan and opengl both a amd igpu 660m and a radeon 3050 6gb rtx. with both modes. ofcourse sonic on accurate. tried docked ran fine but again hard crash or the drop to 5 fps for almost a minute (amd64 machine)
+MARCH 29 nightly commit of 276dcdd8ea red and green lines still present in luigi¨s mansion 3 the nightly that werent there for on feb 06 b9e05h3a7. 
+
+-
+nastydisco
 -
 nastydisco
