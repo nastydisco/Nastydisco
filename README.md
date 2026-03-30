@@ -33,11 +33,15 @@ but UNFORTUNATELY hard crashes in (E.g. Sonic racing crossworlds.) VERY RARELY b
 IS ABLE TO RUN LUIGIS MANSION 3 ON MY IGPU (amd660m ryzen 5 7535hs) no crashes happened yet at all. no red and green lines at all.
 
 so there maybe some things to look into with what was done in the update from feb 06 to the version updated to at feb 07
-,aybe something was changed that should be an option for people to turn on/off idk.. what it is but something broke something feb 06 - 07
+,aybe something was changed that should be an option for people to turn on/off idk.. what it is but something broke something feb 06 - 07yt
 
 thougt i would get the info out there love the work you all do.
-
+-
+as of the latest nightly stable MARCH 29 2026
+Commit of 276dcdd8ea. alot of the slowdowns in sonic racing has been fixed in eden emu. (thanks to EDEN and everyone involved)
+but game still hawe like 30 45 sec periods of 2 - 5 fps while my mangohud shows almost no stress og gou cpu
+these periods of 2 - 5 fps happends on both vulkan and opengl both a amd igpu 660m and a radeon 3050 6gb rtx. with both modes. ofcourse sonic on accurate. tried docked ran fine but again hard crash or the drop to 5 fps for almost a minute (amd64 machine)
+MARCH 29 nightly commit of 276dcdd8ea red and green lines still present in luigi¨s mansion 3 the nightly that werent there for on feb 06 b9e05h3a7. 
 
 -
-
 nastydisco
